@@ -23,7 +23,7 @@ module.exports = {
       theme: true
     }
   },
-  
+
   devServer: {
     port: 8083,
     before(app) {
